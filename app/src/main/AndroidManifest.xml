@@ -8,7 +8,7 @@
 			android:value="true" />
 		<meta-data
 			android:name="xposeddescription"
-			android:value="Prevent apps from taking control of the screen brightness" />
+			android:value="Bring back KeyChain.createInstallIntent’s old behavior to Android 11+" />
 		<meta-data
 			android:name="xposedminversion"
 			android:value="53" />
