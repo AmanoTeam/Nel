@@ -14,8 +14,8 @@ This module will (hopefully) make them work correctly on Android 11+.
 
 ## Usage
 
-Just install and reboot the device. If you are using LSposed, you just need to mark the "Certificate Installer" package on the list of apps and then kill/force-close the `com.android.certinstaller` process (e.g., by running `/system/bin/am force-stop com.android.certinstaller` on a terminal emulator.
+Just install and reboot the device. If you are using LSposed, you just need to mark the "Certificate Installer" package on the list of apps and then kill/force-close the `com.android.certinstaller` process (e.g., by running `/system/bin/am force-stop com.android.certinstaller` on a terminal emulator).
 
 ## Supported Android versions
 
-This module was only tested on Android 13, but should work on any device running Android 11 or higher.
+This module was only tested on Android 13-15, but should work on any device running Android 11 or higher.
